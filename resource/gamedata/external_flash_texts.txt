@@ -15773,6 +15773,7 @@ badge_name_MIN21=The Farm in Colors - Cow
 badge_name_MIN22=The Farm in Colors - Donkey
 badge_name_MIN23=The Farm in Colors - Duck
 badge_name_MIN24=The Farm in Colors - Carrot
+badge_name_MIN29=Cosmo's Tethered Star
 badge_name_MLB01=Magical Laboratory Bundle
 badge_name_MLB02=Celestial Bundle
 badge_name_MLB03=Gallery Bundle XI
